@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the primary function of a CPU?",
+        "options": [
+            "A. To perform calculations",
+            "B. To store data",
+            "C. To manage input and output devices",
+            "D. To provide power to the system"
+        ],
+        "correctAnswers": ["A"]
+    },
+    {
+        "question": "Which of the following are types of RAM?",
+        "options": [
+            "A. DRAM",
+            "B. SRAM",
+            "C. Flash",
+            "D. EEPROM"
+        ],
+        "correctAnswers": ["A", "B"]
+    },
+    {
+        "question": "What does the acronym 'NFC' stand for?",
+        "options": [
+            "A. Near Field Communication",
+            "B. Network File Control",
+            "C. Non-Frequency Communication",
+            "D. None of the above"
+        ],
+        "correctAnswers": ["A"]
+    },
+    {
+        "question": "Which of the following protocols is used for secure data transmission?",
+        "options": [
+            "A. HTTP",
+            "B. FTP",
+            "C. HTTPS",
+            "D. SMTP"
+        ],
+        "correctAnswers": ["C"]
+    },
+    {
+        "question": "What is the maximum length of a USB cable?",
+        "options": [
+            "A. 3 meters",
+            "B. 5 meters",
+            "C. 10 meters",
+            "D. 15 meters"
+        ],
+        "correctAnswers": ["B"]
+    },
+    {
+        "question": "Which of the following devices can be used to troubleshoot network issues?",
+        "options": [
+            "A. Multimeter",
+            "B. Cable tester",
+            "C. Loopback plug",
+            "D. All of the above"
+        ],
+        "correctAnswers": ["D"]
+    },
+    {
+        "question": "What is virtualization?",
+        "options": [
+            "A. Running multiple operating systems on a single physical machine",
+            "B. Creating a backup of data",
+            "C. Increasing the physical memory of a computer",
+            "D. None of the above"
+        ],
+        "correctAnswers": ["A"]
+    },
+    {
+        "question": "Which of the following is a common cloud service model?",
+        "options": [
+            "A. IaaS",
+            "B. PaaS",
+            "C. SaaS",
+            "D. All of the above"
+        ],
+        "correctAnswers": ["D"]
+    },
+    {
+        "question": "What is the purpose of a power supply unit (PSU)?",
+        "options": [
+            "A. To convert AC to DC power",
+            "B. To cool the CPU",
+            "C. To store data",
+            "D. To manage network connections"
+        ],
+        "correctAnswers": ["A"]
+    },
+    {
+        "question": "Which of the following is a common symptom of a failing hard drive?",
+        "options": [
+            "A. Unusual noises",
+            "B. Slow performance",
+            "C. Frequent crashes",
+            "D. All of the above"
+        ],
+        "correctAnswers": ["D"]
+    },
+    {
+        "question": "What does DHCP stand for?",
+        "options": [
+            "A. Dynamic Host Configuration Protocol",
+            "B. Domain Host Control Protocol",
+            "C. Data Host Configuration Protocol",
+            "D. None of the above"
+        ],
+        "correctAnswers": ["A"]
+    }
+]
